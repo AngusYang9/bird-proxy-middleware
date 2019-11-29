@@ -32,7 +32,7 @@
     "lodash": "4.11.*",
     "mime-types": "2.1.8",
     "phantomjs": "2.1.7",
-    "request": "2.67.0",
+    "request": "2.88.0",
     "shell-spawn": "^2.0.0",
     "touch": "^1.0.0",
     "weinre": "2.0.0-pre-I0Z7U9OV"
